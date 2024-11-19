@@ -49,7 +49,7 @@ const home = {
     description: `Portfolio website showcasing my work as a ${person.role}`,
     headline: <>UI/UX Designer & Web Developer</>,
     subline: <>
-Hi there! I'm Bryan, a UI/UX Designer and Web Developer — transforming ideas into engaging user experiences and innovative digital solutions, one line of code and one design at a time. 🚀 </>
+Hi there! I'm Bryan, a UI/UX Designer and Web Developer — transforming ideas into engaging user experiences and innovative digital solutions, one line of code at a time. 🚀 </>
 }
 
 const about = {
