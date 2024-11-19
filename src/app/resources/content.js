@@ -39,7 +39,7 @@ const social = [
     {
         name: 'Email',
         icon: 'email',
-        link: 'vergarajohnbryan.dev@gmail.com',
+        link: 'http://eepurl.com/i4sa7M',
     },
 ]
 

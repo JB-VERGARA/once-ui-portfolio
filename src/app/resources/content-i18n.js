@@ -40,7 +40,7 @@ const createI18nContent = (t) => {
         {
             name: 'Email',
             icon: 'email',
-            link: 'vergarajohnbryan.dev@gmail.com',
+            link: 'http://eepurl.com/i4sa7M',
         },
     ]
 
