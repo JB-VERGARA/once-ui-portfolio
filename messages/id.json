@@ -4,7 +4,7 @@
     },
     "newsletter": {
         "title": "Reach me out!",
-        "description": "Passionate about building innovative solutions, crafting clean code, and turning ideas into impactful projects.",
+        "description": "If you're looking to collaborate or need the right developer to bring your ideas to life, don't hesitate to reach out—let's build something amazing together!",
         "button": "I'm interested"
     },
     "home": {
@@ -12,7 +12,7 @@
         "title": "{name}'s Portfolio",
         "description": "Portfolio website showcasing my work as a {role}",
         "headline": "Software & Web Developer",
-        "subline": "I'm Bryan, a design engineer at FLY, where I craft intuitive user experiences. After hours, I build my own projects."
+        "subline": "Hi there! I'm Bryan, a Software and Web Developer Engineer — crafting innovative solutions, one line of code at a time. 🚀"
     },
     "about": {
         "label": "About",
@@ -20,20 +20,15 @@
         "description": "Meet {name}, {role} from {location}",
         "intro": {
             "title": "Introduction",
-            "description": "Selene is a Jakarta-based design engineer with a passion for transforming complex challenges into simple, elegant design solutions. Her work spans digital interfaces, interactive experiences, and the convergence of design and technology."
+            "description": "Passionate about building innovative solutions, crafting clean code, and turning ideas into impactful projects."
         },
         "work": {
             "title": "Work Experience",
             "experiences": {
-                "FLY": {
-                    "timeframe": "2022 - Present",
-                    "role": "Senior Design Engineer",
-                    "achievements": "Redesigned the UI/UX for the FLY platform, resulting in a 20% increase in user engagement and 30% faster load times.;Spearheaded the integration of AI tools into design workflows, enabling designers to iterate 50% faster."
-                },
-                "Creativ3": {
-                    "timeframe": "2018 - 2022",
-                    "role": "Lead Designer",
-                    "achievements": "Developed a design system that unified the brand across multiple platforms, improving design consistency by 40%.;Led a cross-functional team to launch a new product line, contributing to a 15% increase in overall company revenue."
+                "None": {
+                    "timeframe": "NONE",
+                    "role": "NONE",
+                    "achievements": "NONE"
                 }
             }
         },
@@ -54,8 +49,17 @@
                 "Figma": {
                     "description": "Able to prototype in Figma with Once UI with unnatural speed."
                 },
+                "Web Development": {
+                    "description": "Proficient in HTML, CSS, Bootstrap, and JavaScript to create responsive, interactive, and visually appealing websites."
+                },
                 "Nextjs": {
-                    "description": "Building next gen apps with Next.js + Once UI + Supabase."
+                    "description": "Building next-gen apps with Next.js + Once UI."
+                },
+                "Canva": {
+                    "description": "Designing stunning graphics and visuals with ease on Canva."
+                },
+                "Adobe Photoshop": {
+                    "description": "Skilled in using Adobe Photoshop for image manipulation, editing, and creating visual assets."
                 }
             }
         }
@@ -66,13 +70,13 @@
         "description": "Read what {name} has been up to recently"
     },
     "work": {
-        "label": "Work",
-        "title": "My projects",
-        "description": "Design and dev projects by {name}"
+        "label": "None",
+        "title": "None",
+        "description": "None"
     },
     "gallery": {
-        "label": "Gallery",
-        "title": "My photo gallery",
+        "label": "Designs",
+        "title": "Compilation of my latest designs",
         "description": "A photo collection by {name}"
     },
     "projectCard": {

@@ -2,7 +2,7 @@ import { InlineCode } from "@/once-ui/components";
 
 const createI18nContent = (t) => {
     const person = {
-        firstName: 'John Bryan',
+        firstName: 'Bryan',
         lastName:  'Vergara',
         get name() {
             return `${this.firstName} ${this.lastName}`;
@@ -25,22 +25,22 @@ const createI18nContent = (t) => {
         {
             name: 'GitHub',
             icon: 'github',
-            link: 'https://github.com/once-ui-system/nextjs-starter',
+            link: 'https://github.com/JB-VERGARA',
         },
         {
             name: 'LinkedIn',
             icon: 'linkedin',
-            link: 'https://www.linkedin.com/company/once-ui/',
+            link: 'https://www.linkedin.com/in/vergarajohnbryan/',
         },
         {
-            name: 'X',
+            name: 'Youtube',
             icon: 'x',
             link: '',
         },
         {
             name: 'Email',
             icon: 'email',
-            link: 'mailto:example@gmail.com',
+            link: 'vergarajohnbryan.dev@gmail.com',
         },
     ]
 
@@ -57,8 +57,8 @@ const createI18nContent = (t) => {
         title: t("about.label"),
         description: t("about.description", {name: person.name, role: person.role, location: person.location}),
         tableOfContent: {
-            display: true,
-            subItems: true
+            display: false,
+            subItems: false
         },
         avatar: {
             display: true
@@ -73,7 +73,7 @@ const createI18nContent = (t) => {
             description: <>{t("about.intro.description")}</>
         },
         work: {
-            display: true, // set to false to hide this section
+            display: false, // set to false to hide this section
             title: t("about.work.title"),
             experiences: [
                 {
@@ -89,13 +89,6 @@ const createI18nContent = (t) => {
                             height: 9
                         }
                     ]
-                },
-                {
-                    company: 'Creativ3',
-                    timeframe: t("about.work.experiences.Creativ3.timeframe"),
-                    role: t("about.work.experiences.Creativ3.role"),
-                    achievements: t("about.work.experiences.Creativ3.achievements").split(";"),
-                    images: [ ]
                 }
             ]
         },
@@ -104,12 +97,12 @@ const createI18nContent = (t) => {
             title: 'Studies',
             institutions: [
                 {
-                    name: 'University of Jakarta',
-                    description: <>{t(`about.studies.institutions.University of Jakarta.description`)}</>,
+                    name: 'Cavite State University - Imus Campus',
+                    description: <>Bachelor Of Science in Information Technology - Magna Cum Laude</>,
                 },
                 {
-                    name: 'Build the Future',
-                    description: <>{t("about.studies.institutions.Build the Future.description")}</>,
+                    name: 'International Electronics and Technical Institute Inc',
+                    description: <>TVL - Information and Communications Technology</>,
                 }
             ]
         },

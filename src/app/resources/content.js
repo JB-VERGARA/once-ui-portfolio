@@ -1,7 +1,7 @@
 import { InlineCode } from "@/once-ui/components";
 
 const person = {
-    firstName: 'John Bryan',
+    firstName: 'Bryan',
     lastName:  'Vergara',
     get name() {
         return `${this.firstName} ${this.lastName}`;
@@ -15,7 +15,7 @@ const person = {
 const newsletter = {
     display: true,
     title: <>Reach me out!</>,
-    description: <>Passionate about building innovative solutions, crafting clean code, and turning ideas into impactful projects.</>
+    description: <>If you're looking to collaborate or need the right developer to bring your ideas to life, don't hesitate to reach out—let's build something amazing together!</>
 }
 
 const social = [
@@ -32,7 +32,7 @@ const social = [
         link: 'https://www.linkedin.com/in/vergarajohnbryan/',
     },
     {
-        name: 'X',
+        name: 'Youtube',
         icon: 'x',
         link: '',
     },
@@ -57,8 +57,8 @@ const about = {
     title: 'About me',
     description: `Meet ${person.name}, ${person.role} from ${person.location}`,
     tableOfContent: {
-        display: true,
-        subItems: true
+        display: false,
+        subItems: false
     },
     avatar: {
         display: true
@@ -92,16 +92,6 @@ const about = {
                         height: 9
                     }
                 ]
-            },
-            {
-                company: 'Creativ3',
-                timeframe: '2018 - 2022',
-                role: 'Lead Designer',
-                achievements: [
-                    <>Developed a design system that unified the brand across multiple platforms, improving design consistency by 40%.</>,
-                    <>Led a cross-functional team to launch a new product line, contributing to a 15% increase in overall company revenue.</>
-                ],
-                images: [ ]
             }
         ]
     },
@@ -174,8 +164,8 @@ const work = {
 }
 
 const gallery = {
-    label: 'Gallery',
-    title: 'My photo gallery',
+    label: 'Designs',
+    title: 'Compilation of my latest designs',
     description: `A photo collection by ${person.name}`,
     // Images from https://pexels.com
     images: [
