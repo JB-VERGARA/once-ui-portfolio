@@ -65,14 +65,14 @@
         }
     },
     "blog": {
-        "label": "Blog",
-        "title": "Writing about design and tech...",
-        "description": "Read what {name} has been up to recently"
+        "label": "Certifications",
+        "title": "Technologies I Know...",
+        "description": "Read about what {name} has been up to recently in the world of technology."
     },
     "work": {
-        "label": "None",
-        "title": "None",
-        "description": "None"
+        "label": "My Projects",
+        "title": "Projects & Collaborations",
+        "description": "Designs, collaboration, and development projects by {name}"
     },
     "gallery": {
         "label": "Designs",
@@ -80,6 +80,6 @@
         "description": "A photo collection by {name}"
     },
     "projectCard": {
-        "label": "Read Case Study"
+        "label": "See more"
     }
 }
