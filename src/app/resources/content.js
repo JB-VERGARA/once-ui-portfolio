@@ -33,8 +33,8 @@ const social = [
     },
     {
         name: 'Youtube',
-        icon: 'x',
-        link: '',
+        icon: 'yt',
+        link: 'https://www.youtube.com/@CodeWithBry',
     },
     {
         name: 'Email',
@@ -49,7 +49,7 @@ const home = {
     description: `Portfolio website showcasing my work as a ${person.role}`,
     headline: <>Software & Web Developer</>,
     subline: <>
-Hi there! I'm Bryan, a Software and Web Developer Engineer — crafting innovative solutions, one line of code at a time. 🚀 </>
+Hi there! I'm Bryan, a Software and Web Developer — crafting innovative solutions, one line of code at a time. 🚀 </>
 }
 
 const about = {
@@ -64,7 +64,7 @@ const about = {
         display: true
     },
     calendar: {
-        display: true,
+        display: false,
         link: 'https://cal.com'
     },
     intro: {
