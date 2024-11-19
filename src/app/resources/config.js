@@ -57,7 +57,7 @@ const display = {
 }
 
 const mailchimp = {
-    action: 'https://app.us17.list-manage.com/subscribe/post?u=545743fc958aa64f4b359d3cb&id=84d4fc8810&f_id=0048c2e1f0',
+    action: 'http://eepurl.com/i4sa7M',
     effects: {
         mask: 'topRight',           // none | cursor | topLeft | topRight | bottomLeft | bottomRight
         gradient: {
@@ -75,3 +75,5 @@ const mailchimp = {
 
 
 export { routes, protectedRoutes, effects, style, display, mailchimp, baseURL, i18n, i18nOptions };
+
+// Mail Chimp Action : https://app.us17.list-manage.com/subscribe/post?u=545743fc958aa64f4b359d3cb&id=84d4fc8810&f_id=0048c2e1f0
