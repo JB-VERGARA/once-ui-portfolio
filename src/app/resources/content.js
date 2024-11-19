@@ -165,7 +165,7 @@ const work = {
 
 const gallery = {
     label: 'Designs',
-    title: 'Compilation of my latest designs',
+    title: 'My latest designs',
     description: `A photo collection by ${person.name}`,
     // Images from https://pexels.com
     images: [
