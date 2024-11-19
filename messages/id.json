@@ -11,8 +11,8 @@
         "label": "Home",
         "title": "{name}'s Portfolio",
         "description": "Portfolio website showcasing my work as a {role}",
-        "headline": "Design engineer and builder",
-        "subline": "I'm Selene, a design engineer at FLY, where I craft intuitive user experiences. After hours, I build my own projects."
+        "headline": "Software & Web Developer",
+        "subline": "I'm Bryan, a design engineer at FLY, where I craft intuitive user experiences. After hours, I build my own projects."
     },
     "about": {
         "label": "About",
@@ -44,7 +44,7 @@
                     "description": "Bachelor Of Science in Information Technology - Magna Cum Laude"
                 },
                 "International Electronics and Technical Institute Inc": {
-                    "description": "TVL - Information and Communication Technology"
+                    "description": "TVL - Information and Communications Technology"
                 }
             }
         },
