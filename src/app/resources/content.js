@@ -6,7 +6,7 @@ const person = {
     get name() {
         return `${this.firstName} ${this.lastName}`;
     },
-    role:      'Software & Web Developer',
+    role:      'UI/UX Designer & Web Developer',
     avatar:    '/images/avatar.jpg',
     location:  'Asia/Manila',        // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
     languages: ['English', 'Filipino']  // optional: Leave the array empty if you don't want to display languages
@@ -15,7 +15,7 @@ const person = {
 const newsletter = {
     display: true,
     title: <>Reach me out!</>,
-    description: <>If you're looking to collaborate or need the right developer to bring your ideas to life, don't hesitate to reach out—let's build something amazing together!</>
+    description: <>Whether you're looking to collaborate or need a versatile UI/UX Designer and Web Developer to transform your ideas into intuitive designs and functional solutions, feel free to reach out—let's create something extraordinary together!</>
 }
 
 const social = [
@@ -47,9 +47,9 @@ const home = {
     label: 'Home',
     title: `${person.name}'s Portfolio`,
     description: `Portfolio website showcasing my work as a ${person.role}`,
-    headline: <>Software & Web Developer</>,
+    headline: <>UI/UX Designer & Web Developer</>,
     subline: <>
-Hi there! I'm Bryan, a Software and Web Developer — crafting innovative solutions, one line of code at a time. 🚀 </>
+Hi there! I'm Bryan, a UI/UX Designer and Web Developer — transforming ideas into engaging user experiences and innovative digital solutions, one line of code and one design at a time. 🚀 </>
 }
 
 const about = {
@@ -70,7 +70,7 @@ const about = {
     intro: {
         display: true,
         title: 'Introduction',
-        description: <>John Bryan Vergara is a Philippines-based software and web developer passionate about turning complex problems into innovative, user-centric solutions. His expertise spans crafting seamless web applications, dynamic interfaces, and bridging technology with creativity.</>
+        description: <>John Bryan Vergara is a Philippines-based UI/UX Designer and Web Developer driven by a passion for transforming complex challenges into innovative, user-focused solutions. His expertise includes designing intuitive interfaces, developing dynamic web applications, and combining creativity with technology to deliver exceptional digital experiences.</>
     },
     work: {
         display: false, // set to false to hide this section

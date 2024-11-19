@@ -1,18 +1,18 @@
 {
     "person": {
-        "role": "Software & Web Developer"
+        "role": "UI/UX Designer & Web Developer"
     },
     "newsletter": {
         "title": "Reach me out!",
-        "description": "If you're looking to collaborate or need the right developer to bring your ideas to life, don't hesitate to reach out—let's build something amazing together!",
+        "description": "Whether you're looking to collaborate or need a versatile UI/UX Designer and Web Developer to transform your ideas into intuitive designs and functional solutions, feel free to reach out—let's create something extraordinary together!",
         "button": "I'm interested"
     },
     "home": {
         "label": "Home",
         "title": "{name}'s Portfolio",
         "description": "Portfolio website showcasing my work as a {role}",
-        "headline": "Software & Web Developer",
-        "subline": "Hi there! I'm Bryan, a Software and Web Developer — crafting innovative solutions, one line of code at a time. 🚀"
+        "headline": "UI/UX Designer & Web Developer",
+        "subline": "Hi there! I'm Bryan, a UI/UX Designer and Web Developer — transforming ideas into engaging user experiences and innovative digital solutions, one line of code and one design at a time. 🚀"
     },
     "about": {
         "label": "About",
