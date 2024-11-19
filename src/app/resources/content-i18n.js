@@ -34,8 +34,8 @@ const createI18nContent = (t) => {
         },
         {
             name: 'Youtube',
-            icon: 'x',
-            link: '',
+            icon: 'yt',
+            link: 'https://www.youtube.com/@CodeWithBry',
         },
         {
             name: 'Email',

@@ -70,7 +70,7 @@ const about = {
     intro: {
         display: true,
         title: 'Introduction',
-        description: <>John Bryan Vergara is a Philippines-based software and web development engineer passionate about turning complex problems into innovative, user-centric solutions. His expertise spans crafting seamless web applications, dynamic interfaces, and bridging technology with creativity.</>
+        description: <>John Bryan Vergara is a Philippines-based software and web developer passionate about turning complex problems into innovative, user-centric solutions. His expertise spans crafting seamless web applications, dynamic interfaces, and bridging technology with creativity.</>
     },
     work: {
         display: false, // set to false to hide this section
