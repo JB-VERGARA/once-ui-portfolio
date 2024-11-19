@@ -37,7 +37,7 @@ const social = [
         link: 'https://www.youtube.com/@CodeWithBry',
     },
     {
-        name: 'Email',
+        name: 'Email me here!',
         icon: 'email',
         link: 'http://eepurl.com/i4sa7M',
     },
