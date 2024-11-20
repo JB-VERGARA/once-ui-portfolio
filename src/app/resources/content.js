@@ -114,7 +114,7 @@ const about = {
         title: 'Technical skills',
         skills: [
             {
-                title: 'Figma',
+                title: 'Prototyping (Figma)',
                 description: <>Proficient in prototyping and designing user-friendly interfaces with Figma, focusing on usability and aesthetics.</>,
                 images: [
                     {
@@ -150,7 +150,7 @@ const about = {
                 ]
             },
             {
-                title: 'Content Creation Skills',
+                title: 'Content Creation & Graphic Designing',
                 description: <>Proficient in creating professional-grade graphics and visuals using Canva, Adobe Photoshop for advanced image editing and visual assets, and PowerDirector for high-quality video content including editing, transitions, and effects.</>,
                 images: [
                     {
@@ -168,7 +168,7 @@ const about = {
                 ]
             },
             {
-                title: 'Backend Development & Deployment Skills',
+                title: 'Backend Development & Deployment',
                 description: <>Experienced in Object-Oriented Programming (OOP) concepts with Java, proficient in building scalable applications, creating robust APIs using Spring Boot for backend integration, and skilled in deployment processes, managing build pipelines, and resolving deployment challenges for smooth delivery.</>,
                 images: [
                     {
@@ -186,7 +186,7 @@ const about = {
                 ]
             },
             {
-                title: 'Git',
+                title: 'Collaboration & Version Control',
                 description: <>Experienced in using Git for version control, focusing on collaboration through branching, merging, and resolving conflicts, and managing forks for efficient teamwork and code contributions.</>,
                 images: [
                     {

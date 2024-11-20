@@ -111,7 +111,7 @@ const createI18nContent = (t) => {
             title: t("about.technical.title"),
             skills: [
                 {
-                    title: 'Figma',
+                    title: 'Prototyping(Figma)',
                     description: <>{t("about.technical.skills.Figma.description")}</>,
                     images: [
                         {
@@ -147,7 +147,7 @@ const createI18nContent = (t) => {
                     ]
                 },
                 {
-                    title: 'Content Creation Skills',
+                    title: 'Content Creation & Graphic Designing',
                     description: <>{t("about.technical.skills.Figma.description")}</>,
                     images: [
                         {
@@ -165,7 +165,7 @@ const createI18nContent = (t) => {
                     ]
                 },
                 {
-                    title: 'Backend Development & Deployment Skills',
+                    title: 'Backend Development & Deployment',
                     description: <>{t("about.technical.skills.Figma.description")}</>,
                     images: [
                         {
@@ -183,7 +183,7 @@ const createI18nContent = (t) => {
                     ]
                 },
                 {
-                    title: 'Git',
+                    title: 'Collaboration & Version Control',
                     description: <>{t("about.technical.skills.Figma.description")}</>,
                     images: [
                         {
