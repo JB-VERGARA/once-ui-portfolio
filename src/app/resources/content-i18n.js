@@ -133,13 +133,13 @@ const createI18nContent = (t) => {
                     description: <>{t("about.technical.skills.Figma.description")}</>,
                     images: [
                         {
-                            src: '/images/projects/Technical/Web Development (2).png',
+                            src: '/images/projects/Technical/WD.png',
                             alt: 'Project image',
                             width: 16,
                             height: 9
                         },
                         {
-                            src: '/images/projects/Technical/Web Development.png',
+                            src: '/images/projects/Technical/WD2.png',
                             alt: 'Project image',
                             width: 16,
                             height: 9
@@ -157,7 +157,7 @@ const createI18nContent = (t) => {
                             height: 9
                         },
                         {
-                            src: '/images/projects/Technical/Canva (2).png',
+                            src: '/images/projects/Technical/Canva2.png',
                             alt: 'Project image',
                             width: 16,
                             height: 9

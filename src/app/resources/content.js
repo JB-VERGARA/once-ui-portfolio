@@ -136,13 +136,13 @@ const about = {
                 description: <>Experienced in building responsive, interactive, and visually appealing websites using HTML, CSS, JavaScript, and leveraging Next.js for modern features like server-side rendering and static site generation.</>,
                 images: [
                     {
-                        src: '/images/projects/project-01/Web Development.png',
+                        src: '/images/projects/Technical/WD.png',
                         alt: 'Project image',
                         width: 16,
                         height: 9
                     },
                     {
-                        src: '/images/projects/project-01/Web Development (2).png',
+                        src: '/images/projects/Technical/WD2.png',
                         alt: 'Project image',
                         width: 16,
                         height: 9
@@ -154,13 +154,13 @@ const about = {
                 description: <>Proficient in creating professional-grade graphics and visuals using Canva, Adobe Photoshop for advanced image editing and visual assets, and PowerDirector for high-quality video content including editing, transitions, and effects.</>,
                 images: [
                     {
-                        src: '/images/projects/project-01/Canva.png',
+                        src: '/images/projects/Technical/Canva.png',
                         alt: 'Project image',
                         width: 16,
                         height: 9
                     },
                     {
-                        src: '/images/projects/project-01/Canva (2).png',
+                        src: '/images/projects/Technical/Canva2.png',
                         alt: 'Project image',
                         width: 16,
                         height: 9
