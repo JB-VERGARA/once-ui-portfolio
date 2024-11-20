@@ -169,13 +169,13 @@ const createI18nContent = (t) => {
                     description: <>{t("about.technical.skills.Figma.description")}</>,
                     images: [
                         {
-                            src: '/images/projects/Technical/Figma.png',
+                            src: '/images/projects/Technical/Backend.png',
                             alt: 'Project image',
                             width: 16,
                             height: 9
                         },
                         {
-                            src: '/images/projects/Technical/Figma(2).png',
+                            src: '/images/projects/Technical/Backend2.png',
                             alt: 'Project image',
                             width: 16,
                             height: 9
@@ -187,13 +187,13 @@ const createI18nContent = (t) => {
                     description: <>{t("about.technical.skills.Figma.description")}</>,
                     images: [
                         {
-                            src: '/images/projects/Technical/Figma.png',
+                            src: '/images/projects/Technical/git.png',
                             alt: 'Project image',
                             width: 16,
                             height: 9
                         },
                         {
-                            src: '/images/projects/Technical/Figma(2).png',
+                            src: '/images/projects/Technical/git2.png',
                             alt: 'Project image',
                             width: 16,
                             height: 9

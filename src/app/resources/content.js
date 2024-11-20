@@ -172,13 +172,13 @@ const about = {
                 description: <>Experienced in Object-Oriented Programming (OOP) concepts with Java, proficient in building scalable applications, creating robust APIs using Spring Boot for backend integration, and skilled in deployment processes, managing build pipelines, and resolving deployment challenges for smooth delivery.</>,
                 images: [
                     {
-                        src: '/images/projects/project-01/Canva.png',
+                        src: '/images/projects/Technical/Backend.png',
                         alt: 'Project image',
                         width: 16,
                         height: 9
                     },
                     {
-                        src: '/images/projects/project-01/Canva (2).png',
+                        src: '/images/projects/Technical/Backend2.png',
                         alt: 'Project image',
                         width: 16,
                         height: 9
@@ -190,13 +190,13 @@ const about = {
                 description: <>Experienced in using Git for version control, focusing on collaboration through branching, merging, and resolving conflicts, and managing forks for efficient teamwork and code contributions.</>,
                 images: [
                     {
-                        src: '/images/projects/project-01/Canva.png',
+                        src: '/images/projects/Technical/git.png',
                         alt: 'Project image',
                         width: 16,
                         height: 9
                     },
                     {
-                        src: '/images/projects/project-01/Canva (2).png',
+                        src: '/images/projects/Technical/git2.png',
                         alt: 'Project image',
                         width: 16,
                         height: 9
