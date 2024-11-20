@@ -45,7 +45,7 @@ const social = [
 
 const home = {
     label: 'Home',
-    title: `${person.name}'s Portfolio`,
+    title: `John Bryan B. Vergara`,
     description: `Portfolio website showcasing my work as a ${person.role}`,
     headline: <>UI/UX Designer & Web Developer</>,
     subline: <>
@@ -115,16 +115,16 @@ const about = {
         skills: [
             {
                 title: 'Figma',
-                description: <>Able to prototype in Figma with Once UI with unnatural speed.</>,
+                description: <>Proficient in prototyping and designing user-friendly interfaces with Figma, focusing on usability and aesthetics.</>,
                 images: [
                     {
-                        src: '/images/projects/project-01/cover-02.jpg',
+                        src: '/images/projects/Technical/Figma.jpg',
                         alt: 'Project image',
                         width: 16,
                         height: 9
                     },
                     {
-                        src: '/images/projects/project-01/cover-03.jpg',
+                        src: '/images/projects/Technical/Figma(2).jpg',
                         alt: 'Project image',
                         width: 16,
                         height: 9

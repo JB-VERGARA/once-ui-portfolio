@@ -47,19 +47,31 @@
             "title": "Technical skills",
             "skills": {
                 "Figma": {
-                    "description": "Able to prototype in Figma with Once UI with unnatural speed."
+                "description": "Proficient in prototyping and designing user-friendly interfaces with Figma, focusing on usability and aesthetics."
                 },
                 "Web Development": {
-                    "description": "Proficient in HTML, CSS, Bootstrap, and JavaScript to create responsive, interactive, and visually appealing websites."
+                "description": "Experienced in HTML, CSS, JavaScript, and design frameworks to create responsive, interactive, and visually appealing websites."
                 },
                 "Nextjs": {
-                    "description": "Building next-gen apps with Next.js + Once UI."
+                "description": "Proficient in using Next.js to build modern, efficient, and scalable web applications with features like server-side rendering and static site generation."
                 },
                 "Canva": {
-                    "description": "Designing stunning graphics and visuals with ease on Canva."
+                "description": "Creating professional-grade graphics and visuals effortlessly using Canva."
                 },
                 "Adobe Photoshop": {
-                    "description": "Skilled in using Adobe Photoshop for image manipulation, editing, and creating visual assets."
+                "description": "Skilled in Adobe Photoshop for advanced image editing, manipulation, and designing visual assets."
+                },
+                "Object-Oriented Programming (Java)": {
+                "description": "Experienced in OOP concepts and proficient in Java for building scalable and maintainable applications."
+                },
+                "Spring Boot API Development": {
+                "description": "Capable of creating robust and efficient APIs using Spring Boot for seamless backend integration."
+                },
+                "Deployment and Build Management": {
+                "description": "Skilled in deployment processes, managing build pipelines, and resolving deployment challenges to ensure smooth application delivery."
+                },
+                "Git": {
+                "description": "Experienced in using Git for version control, focusing on collaboration through branching, merging, and resolving conflicts, and managing forks for efficient teamwork and code contributions."
                 }
             }
         }

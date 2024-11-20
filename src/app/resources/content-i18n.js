@@ -115,17 +115,17 @@ const createI18nContent = (t) => {
                     description: <>{t("about.technical.skills.Figma.description")}</>,
                     images: [
                         {
-                            src: '/images/projects/project-01/cover-02.jpg',
+                            src: '/images/projects/Technical/Figma.jpg',
                             alt: 'Project image',
                             width: 16,
                             height: 9
                         },
                         {
-                            src: '/images/projects/project-01/cover-03.jpg',
+                            src: '/images/projects/Technical/Figma(2).jpg',
                             alt: 'Project image',
                             width: 16,
                             height: 9
-                        },
+                        }
                     ]
                 },
                 {
