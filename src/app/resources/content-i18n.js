@@ -115,13 +115,13 @@ const createI18nContent = (t) => {
                     description: <>{t("about.technical.skills.Figma.description")}</>,
                     images: [
                         {
-                            src: '/images/projects/Technical/Figma.jpg',
+                            src: '/images/projects/Technical/Figma.png',
                             alt: 'Project image',
                             width: 16,
                             height: 9
                         },
                         {
-                            src: '/images/projects/Technical/Figma(2).jpg',
+                            src: '/images/projects/Technical/Figma(2).png',
                             alt: 'Project image',
                             width: 16,
                             height: 9
@@ -129,15 +129,75 @@ const createI18nContent = (t) => {
                     ]
                 },
                 {
-                    title: 'Next.js',
-                    description: <>{t("about.technical.skills.Nextjs.description")}</>, // "." not accepted in next-intl namespace
+                    title: 'Web Development',
+                    description: <>{t("about.technical.skills.Figma.description")}</>,
                     images: [
                         {
-                            src: '/images/projects/project-01/cover-04.jpg',
+                            src: '/images/projects/Technical/Web Development (2).png',
                             alt: 'Project image',
                             width: 16,
                             height: 9
                         },
+                        {
+                            src: '/images/projects/Technical/Web Development.png',
+                            alt: 'Project image',
+                            width: 16,
+                            height: 9
+                        }
+                    ]
+                },
+                {
+                    title: 'Content Creation Skills',
+                    description: <>{t("about.technical.skills.Figma.description")}</>,
+                    images: [
+                        {
+                            src: '/images/projects/Technical/Canva.png',
+                            alt: 'Project image',
+                            width: 16,
+                            height: 9
+                        },
+                        {
+                            src: '/images/projects/Technical/Canva (2).png',
+                            alt: 'Project image',
+                            width: 16,
+                            height: 9
+                        }
+                    ]
+                },
+                {
+                    title: 'Backend Development & Deployment Skills',
+                    description: <>{t("about.technical.skills.Figma.description")}</>,
+                    images: [
+                        {
+                            src: '/images/projects/Technical/Figma.png',
+                            alt: 'Project image',
+                            width: 16,
+                            height: 9
+                        },
+                        {
+                            src: '/images/projects/Technical/Figma(2).png',
+                            alt: 'Project image',
+                            width: 16,
+                            height: 9
+                        }
+                    ]
+                },
+                {
+                    title: 'Git',
+                    description: <>{t("about.technical.skills.Figma.description")}</>,
+                    images: [
+                        {
+                            src: '/images/projects/Technical/Figma.png',
+                            alt: 'Project image',
+                            width: 16,
+                            height: 9
+                        },
+                        {
+                            src: '/images/projects/Technical/Figma(2).png',
+                            alt: 'Project image',
+                            width: 16,
+                            height: 9
+                        }
                     ]
                 }
             ]

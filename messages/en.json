@@ -52,23 +52,11 @@
             "Web Development": {
             "description": "Experienced in building responsive, interactive, and visually appealing websites using HTML, CSS, JavaScript, and leveraging Next.js for modern features like server-side rendering and static site generation."
             },
-            "Canva": {
-            "description": "Creating professional-grade graphics and visuals effortlessly using Canva."
+            "Content Creation Skills": {
+            "description": "Proficient in creating professional-grade graphics and visuals using Canva, Adobe Photoshop for advanced image editing and visual assets, and PowerDirector for high-quality video content including editing, transitions, and effects."
             },
-            "Adobe Photoshop": {
-            "description": "Skilled in Adobe Photoshop for advanced image editing, manipulation, and designing visual assets."
-            },
-            "PowerDirector Video Editor": {
-                "description": "Proficient in using PowerDirector for creating high-quality video content, including editing, transitions, and effects for professional and engaging videos."
-            },
-            "Object-Oriented Programming (Java)": {
-            "description": "Experienced in OOP concepts and proficient in Java for building scalable and maintainable applications."
-            },
-            "Spring Boot API Development": {
-            "description": "Capable of creating robust and efficient APIs using Spring Boot for seamless backend integration."
-            },
-            "Deployment and Build Management": {
-            "description": "Skilled in deployment processes, managing build pipelines, and resolving deployment challenges to ensure smooth application delivery."
+            "Backend Development & Deployment Skills": {
+            "description": "Experienced in Object-Oriented Programming (OOP) concepts with Java, proficient in building scalable applications, creating robust APIs using Spring Boot for backend integration, and skilled in deployment processes, managing build pipelines, and resolving deployment challenges for smooth delivery."
             },
             "Git": {
             "description": "Experienced in using Git for version control, focusing on collaboration through branching, merging, and resolving conflicts, and managing forks for efficient teamwork and code contributions."

@@ -46,33 +46,21 @@
         "technical": {
             "title": "Technical skills",
             "skills": {
-                "Figma": {
-                "description": "Proficient in prototyping and designing user-friendly interfaces with Figma, focusing on usability and aesthetics."
-                },
-                "Web Development": {
-                "description": "Experienced in HTML, CSS, JavaScript, and design frameworks to create responsive, interactive, and visually appealing websites."
-                },
-                "Nextjs": {
-                "description": "Proficient in using Next.js to build modern, efficient, and scalable web applications with features like server-side rendering and static site generation."
-                },
-                "Canva": {
-                "description": "Creating professional-grade graphics and visuals effortlessly using Canva."
-                },
-                "Adobe Photoshop": {
-                "description": "Skilled in Adobe Photoshop for advanced image editing, manipulation, and designing visual assets."
-                },
-                "Object-Oriented Programming (Java)": {
-                "description": "Experienced in OOP concepts and proficient in Java for building scalable and maintainable applications."
-                },
-                "Spring Boot API Development": {
-                "description": "Capable of creating robust and efficient APIs using Spring Boot for seamless backend integration."
-                },
-                "Deployment and Build Management": {
-                "description": "Skilled in deployment processes, managing build pipelines, and resolving deployment challenges to ensure smooth application delivery."
-                },
-                "Git": {
-                "description": "Experienced in using Git for version control, focusing on collaboration through branching, merging, and resolving conflicts, and managing forks for efficient teamwork and code contributions."
-                }
+            "Figma": {
+            "description": "Proficient in prototyping and designing user-friendly interfaces with Figma, focusing on usability and aesthetics."
+            },
+            "Web Development": {
+            "description": "Experienced in building responsive, interactive, and visually appealing websites using HTML, CSS, JavaScript, and leveraging Next.js for modern features like server-side rendering and static site generation."
+            },
+            "Content Creation Skills": {
+            "description": "Proficient in creating professional-grade graphics and visuals using Canva, Adobe Photoshop for advanced image editing and visual assets, and PowerDirector for high-quality video content including editing, transitions, and effects."
+            },
+            "Backend Development & Deployment Skills": {
+            "description": "Experienced in Object-Oriented Programming (OOP) concepts with Java, proficient in building scalable applications, creating robust APIs using Spring Boot for backend integration, and skilled in deployment processes, managing build pipelines, and resolving deployment challenges for smooth delivery."
+            },
+            "Git": {
+            "description": "Experienced in using Git for version control, focusing on collaboration through branching, merging, and resolving conflicts, and managing forks for efficient teamwork and code contributions."
+            }
             }
         }
     },
