@@ -138,7 +138,7 @@ export default function Home(
 							as="h2"
 							variant="display-strong-xs"
 							wrap="balance">
-							Most Recent Certification Obtained
+							Newest Certification Gained
 						</Heading>
 					</Flex>
 					<Flex
