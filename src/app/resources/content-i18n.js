@@ -1,5 +1,5 @@
 import { InlineCode } from "@/once-ui/components";
-
+//Back up localization
 const createI18nContent = (t) => {
     const person = {
         firstName: 'Bryan',
@@ -97,11 +97,11 @@ const createI18nContent = (t) => {
             title: 'Studies',
             institutions: [
                 {
-                    name: 'Cavite State University - Imus Campus',
+                    name: '🎓 Cavite State University - Imus Campus',
                     description: <>Bachelor Of Science in Information Technology - Magna Cum Laude</>,
                 },
                 {
-                    name: 'International Electronics and Technical Institute Inc',
+                    name: '🎓 International Electronics and Technical Institute Inc.',
                     description: <>TVL - Information and Communications Technology</>,
                 }
             ]
@@ -111,7 +111,7 @@ const createI18nContent = (t) => {
             title: t("about.technical.title"),
             skills: [
                 {
-                    title: 'Prototyping(Figma)',
+                    title: '🖊️ Prototyping(Figma)',
                     description: <>{t("about.technical.skills.Figma.description")}</>,
                     images: [
                         {
@@ -129,7 +129,7 @@ const createI18nContent = (t) => {
                     ]
                 },
                 {
-                    title: 'Web Development',
+                    title: '💻 Web Development',
                     description: <>{t("about.technical.skills.Figma.description")}</>,
                     images: [
                         {

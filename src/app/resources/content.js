@@ -100,11 +100,11 @@ const about = {
         title: 'Studies',
         institutions: [
             {
-                name: 'Cavite State University - Imus Campus',
+                name: '🎓 Cavite State University - Imus Campus ',
                 description: <>Bachelor Of Science in Information Technology - Magna Cum Laude</>,
             },
             {
-                name: 'International Electronics and Technical Institute Inc',
+                name: '🎓 International Electronics and Technical Institute Inc.',
                 description: <>TVL - Information and Communications Technology</>,
             }
         ]
@@ -114,7 +114,7 @@ const about = {
         title: 'Technical skills',
         skills: [
             {
-                title: 'Prototyping (Figma)',
+                title: '🖊️ Prototyping (Figma)',
                 description: <>Proficient in prototyping and designing user-friendly interfaces with Figma, focusing on usability and aesthetics.</>,
                 images: [
                     {
@@ -132,7 +132,7 @@ const about = {
                 ]
             },
             {
-                title: 'Web Development',
+                title: '💻 Web Development',
                 description: <>Experienced in building responsive, interactive, and visually appealing websites using HTML, CSS, JavaScript, and leveraging Next.js for modern features like server-side rendering and static site generation.</>,
                 images: [
                     {
@@ -150,7 +150,7 @@ const about = {
                 ]
             },
             {
-                title: 'Content Creation & Graphic Designing',
+                title: '🎨 Content Creation & Graphic Designing',
                 description: <>Proficient in creating professional-grade graphics and visuals using Canva, Adobe Photoshop for advanced image editing and visual assets, and PowerDirector for high-quality video content including editing, transitions, and effects.</>,
                 images: [
                     {
@@ -168,7 +168,7 @@ const about = {
                 ]
             },
             {
-                title: 'Backend Development & Deployment',
+                title: '🚀 Backend Development & Deployment',
                 description: <>Experienced in Object-Oriented Programming (OOP) concepts with Java, proficient in building scalable applications, creating robust APIs using Spring Boot for backend integration, and skilled in deployment processes, managing build pipelines, and resolving deployment challenges for smooth delivery.</>,
                 images: [
                     {
@@ -186,7 +186,7 @@ const about = {
                 ]
             },
             {
-                title: 'Collaboration & Version Control',
+                title: '🗂️ Collaboration & Version Control',
                 description: <>Experienced in using Git for version control, focusing on collaboration through branching, merging, and resolving conflicts, and managing forks for efficient teamwork and code contributions.</>,
                 images: [
                     {
