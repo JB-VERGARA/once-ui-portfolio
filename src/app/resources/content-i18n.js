@@ -76,20 +76,20 @@ const createI18nContent = (t) => {
             display: true, // set to false to hide this section
             title: t("about.work.title"),
             experiences: [
-                // {
-                //     company: 'FLY',
-                //     timeframe: t("about.work.experiences.FLY.timeframe"),
-                //     role: t("about.work.experiences.FLY.role"),
-                //     achievements: t("about.work.experiences.FLY.achievements").split(";"),
-                //     images: [ // optional: leave the array empty if you don't want to display images
-                //         {
-                //             src: '/images/projects/project-01/cover-01.jpg',
-                //             alt: 'Once UI Project',
-                //             width: 16,
-                //             height: 9
-                //         }
-                //     ]
-                // }
+                {
+                    company: 'FLY',
+                    timeframe: t("about.work.experiences.FLY.timeframe"),
+                    role: t("about.work.experiences.FLY.role"),
+                    achievements: t("about.work.experiences.FLY.achievements").split(";"),
+                    images: [ // optional: leave the array empty if you don't want to display images
+                        {
+                            src: '/images/projects/project-01/cover-01.jpg',
+                            alt: 'Once UI Project',
+                            width: 16,
+                            height: 9
+                        }
+                    ]
+                }
             ]
         },
         studies: {
