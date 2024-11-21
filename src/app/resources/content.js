@@ -73,26 +73,26 @@ const about = {
         description: <>John Bryan Vergara is a Philippines-based UI/UX Designer and Web Developer driven by a passion for transforming complex challenges into innovative, user-focused solutions. His expertise includes designing intuitive interfaces, developing dynamic web applications, and combining creativity with technology to deliver exceptional digital experiences.</>
     },
     work: {
-        display: false, // set to false to hide this section
-        title: 'Work Experience',
+        display: true, // set to false to hide this section
+        title: 'My Projects',
         experiences: [
-            {
-                company: 'FLY',
-                timeframe: '2022 - Present',
-                role: 'Senior Design Engineer',
-                achievements: [
-                    <>Redesigned the UI/UX for the FLY platform, resulting in a 20% increase in user engagement and 30% faster load times.</>,
-                    <>Spearheaded the integration of AI tools into design workflows, enabling designers to iterate 50% faster.</>
-                ],
-                images: [ // optional: leave the array empty if you don't want to display images
-                    {
-                        src: '/images/projects/project-01/cover-01.jpg',
-                        alt: 'Once UI Project',
-                        width: 16,
-                        height: 9
-                    }
-                ]
-            }
+            // {
+            //     company: 'FLY',
+            //     timeframe: '2022 - Present',
+            //     role: 'Senior Design Engineer',
+            //     achievements: [
+            //         <>Redesigned the UI/UX for the FLY platform, resulting in a 20% increase in user engagement and 30% faster load times.</>,
+            //         <>Spearheaded the integration of AI tools into design workflows, enabling designers to iterate 50% faster.</>
+            //     ],
+            //     images: [ // optional: leave the array empty if you don't want to display images
+            //         {
+            //             src: '/images/projects/project-01/cover-01.jpg',
+            //             alt: 'Once UI Project',
+            //             width: 16,
+            //             height: 9
+            //         }
+            //     ]
+            // }
         ]
     },
     studies: {

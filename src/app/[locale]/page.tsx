@@ -121,6 +121,25 @@ export default function Home(
 											<Arrow trigger="#about"/>
 									</Flex>
 								</Button>
+								<Button
+									id="work"
+									data-border="rounded"
+									href={`/${locale}/work`}
+									variant="tertiary"
+									size="m">
+									<Flex
+										gap="8"
+										alignItems="center">
+										{about.avatar.display && (
+											<Avatar
+												style={{marginLeft: '-0.75rem', marginRight: '0.25rem'}}
+												src={person.avatar}
+												size="m"/>
+											)}
+											{t("work.title")}
+											<Arrow trigger="#work"/>
+									</Flex>
+								</Button>
 							</Flex>
 						</RevealFx>
 					</Flex>
