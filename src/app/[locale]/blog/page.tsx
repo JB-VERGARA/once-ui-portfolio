@@ -79,9 +79,12 @@ export default function Blog(
                 variant="display-strong-s">
                 {blog.title}
             </Heading>
+			<Flex
+			solid="info-strong">
 			<CustomText variant="body-default-s" as="p">
-    			For Display Purposes Only
+    			(For Display Purposes Only)
 			</CustomText>
+			</Flex>
 			<Flex
 				fillWidth flex={1} direction="column">
 				<Posts range={[1,3]} locale={locale} thumbnail/>
