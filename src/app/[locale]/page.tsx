@@ -143,7 +143,7 @@ export default function Home(
 					</Flex>
 					<Flex
 						flex={3} paddingX="20">
-						<Posts range={[1,0]} columns="1" locale={locale}/>
+						<Posts range={[1]} columns="1" locale={locale}/>
 					</Flex>
 				</Flex>
 			)}
