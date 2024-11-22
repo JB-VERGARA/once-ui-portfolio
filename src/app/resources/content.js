@@ -209,7 +209,7 @@ const about = {
 
 const blog = {
     label: 'Certifications',
-    title: 'For Display Purposes Only',
+    title: 'Certificates',
     description: `A showcase of certificates earned by ${person.name}, displayed for informational purposes only. Unauthorized use is prohibited.`,
     // Create new blog posts by adding a new .mdx file to app/blog/posts
     // All posts will be listed on the /blog route
