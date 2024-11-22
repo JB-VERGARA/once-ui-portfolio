@@ -79,7 +79,7 @@ export default function Blog(
                 variant="display-strong-s">
                 {blog.title}
             </Heading>
-			<CustomText variant="body-default-s" as="p">
+			<CustomText variant="body-default-s" as="p" marginBottom='20'>
 				(𝘍𝘰𝘳 𝘋𝘪𝘴𝘱𝘭𝘢𝘺 𝘗𝘶𝘳𝘱𝘰𝘴𝘦𝘴 𝘖𝘯𝘭𝘺)
 			</CustomText>
 			<Flex
