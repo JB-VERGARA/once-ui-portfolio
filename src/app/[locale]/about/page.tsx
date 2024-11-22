@@ -326,7 +326,7 @@ export default function About(
                             <Heading
                                 as="h2"
                                 id={about.technical.title}
-                                variant="display-strong-s" marginBottom="40" marginTop='20'>
+                                variant="display-strong-s" marginBottom="20" marginTop='20'>
                                 {about.technical.title}
                             </Heading>
                             <Flex
