@@ -80,7 +80,7 @@ export default function Blog(
                 {blog.title}
             </Heading>
 			<CustomText variant="body-default-s" as="p">
-				𝘍𝘰𝘳 𝘋𝘪𝘴𝘱𝘭𝘢𝘺 𝘗𝘶𝘳𝘱𝘰𝘴𝘦𝘴 𝘖𝘯𝘭𝘺
+				(𝘍𝘰𝘳 𝘋𝘪𝘴𝘱𝘭𝘢𝘺 𝘗𝘶𝘳𝘱𝘰𝘴𝘦𝘴 𝘖𝘯𝘭𝘺)
 			</CustomText>
 			<Flex
 				fillWidth flex={1} direction="column">
