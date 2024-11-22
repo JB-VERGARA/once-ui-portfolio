@@ -37,16 +37,6 @@ const social = [
         link: 'https://www.youtube.com/@CodeWithBry',
     },
     {
-        name: 'Facebook',
-        icon: 'fb',
-        link: 'https://www.facebook.com/vergarajohnbryan/',
-    },
-    {
-        name: 'Instagram',
-        icon: 'insta',
-        link: 'https://www.instagram.com/vergara_024/',
-    },
-    {
         name: 'Message me!',
         icon: 'email',
         link: 'http://eepurl.com/i4sa7M',
