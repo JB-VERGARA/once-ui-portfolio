@@ -4,6 +4,7 @@ import { Posts } from '@/components/blog/Posts';
 import { baseURL, renderContent } from '@/app/resources'
 import { getTranslations, unstable_setRequestLocale } from 'next-intl/server';
 import { useTranslations } from 'next-intl';
+import { Text as CustomText } from '@/once-ui/components';
 
 export async function generateMetadata(
 	{params: {locale}}: { params: { locale: string }}
@@ -78,6 +79,9 @@ export default function Blog(
                 variant="display-strong-s">
                 {blog.title}
             </Heading>
+			<CustomText variant="body-default-s" as="p">
+    			For Display Purposes Only
+			</CustomText>
 			<Flex
 				fillWidth flex={1} direction="column">
 				<Posts range={[1,3]} locale={locale} thumbnail/>
