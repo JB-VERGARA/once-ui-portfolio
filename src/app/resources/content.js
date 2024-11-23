@@ -298,6 +298,11 @@ const gallery = {
             alt: 'image',
             orientation: 'horizontal'
         },
+        { 
+            src: '/images/gallery/designV5.png', 
+            alt: 'image',
+            orientation: 'horizontal'
+        },
         
     ]
 }
