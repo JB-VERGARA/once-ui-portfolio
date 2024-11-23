@@ -281,22 +281,22 @@ const gallery = {
         { 
             src: '/images/gallery/designV1.png', 
             alt: 'image',
-            orientation: 'vertical'
+            orientation: 'horizontal'
         },
         { 
             src: '/images/gallery/designV2.png', 
             alt: 'image',
-            orientation: 'vertical'
+            orientation: 'horizontal'
         },
         { 
             src: '/images/gallery/designV3.png', 
             alt: 'image',
-            orientation: 'vertical'
+            orientation: 'horizontal'
         },
         { 
             src: '/images/gallery/designV4.png', 
             alt: 'image',
-            orientation: 'vertical'
+            orientation: 'horizontal'
         },
         
     ]
