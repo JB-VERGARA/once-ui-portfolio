@@ -279,22 +279,22 @@ const gallery = {
             orientation: 'horizontal'
         },
         { 
-            src: '/images/gallery/designV1.jpg', 
+            src: '/images/gallery/designV1.png', 
             alt: 'image',
             orientation: 'vertical'
         },
         { 
-            src: '/images/gallery/designV2.jpg', 
+            src: '/images/gallery/designV2.png', 
             alt: 'image',
             orientation: 'vertical'
         },
         { 
-            src: '/images/gallery/designV3.jpg', 
+            src: '/images/gallery/designV3.png', 
             alt: 'image',
             orientation: 'vertical'
         },
         { 
-            src: '/images/gallery/designV4.jpg', 
+            src: '/images/gallery/designV4.png', 
             alt: 'image',
             orientation: 'vertical'
         },
