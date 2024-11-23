@@ -225,7 +225,7 @@ const work = {
 
 const gallery = {
     label: 'Designs',
-    title: 'My latest designs',
+    title: 'My Designs',
     description: `A Design Collection by ${person.name}`,
     images: [
         { 
