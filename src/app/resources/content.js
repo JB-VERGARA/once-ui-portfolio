@@ -226,19 +226,79 @@ const work = {
 const gallery = {
     label: 'Designs',
     title: 'My latest designs',
-    description: `A photo collection by ${person.name}`,
-    // Images from https://pexels.com
+    description: `A Design Collection by ${person.name}`,
     images: [
         { 
-            src: '/images/gallery/img-01.jpg', 
+            src: '/images/gallery/design1.png', 
+            alt: 'image',
+            orientation: 'horizontal'
+        },
+        { 
+            src: '/images/gallery/design2.png', 
+            alt: 'image',
+            orientation: 'horizontal'
+        },
+        { 
+            src: '/images/gallery/design3.png', 
+            alt: 'image',
+            orientation: 'horizontal'
+        },
+        { 
+            src: '/images/gallery/design4.png', 
+            alt: 'image',
+            orientation: 'horizontal'
+        },
+        { 
+            src: '/images/gallery/design5.png', 
+            alt: 'image',
+            orientation: 'horizontal'
+        },
+        { 
+            src: '/images/gallery/design6.png', 
+            alt: 'image',
+            orientation: 'horizontal'
+        },
+        { 
+            src: '/images/gallery/design7.png', 
+            alt: 'image',
+            orientation: 'horizontal'
+        },
+        { 
+            src: '/images/gallery/design8.png', 
+            alt: 'image',
+            orientation: 'horizontal'
+        },
+        { 
+            src: '/images/gallery/design9.png', 
+            alt: 'image',
+            orientation: 'horizontal'
+        },
+        { 
+            src: '/images/gallery/design10.png', 
+            alt: 'image',
+            orientation: 'horizontal'
+        },
+        { 
+            src: '/images/gallery/designV1.jpg', 
             alt: 'image',
             orientation: 'vertical'
         },
         { 
-            src: '/images/gallery/img-02.jpg', 
+            src: '/images/gallery/designV2.jpg', 
             alt: 'image',
-            orientation: 'horizontal'
+            orientation: 'vertical'
         },
+        { 
+            src: '/images/gallery/designV3.jpg', 
+            alt: 'image',
+            orientation: 'vertical'
+        },
+        { 
+            src: '/images/gallery/designV4.jpg', 
+            alt: 'image',
+            orientation: 'vertical'
+        },
+        
     ]
 }
 
