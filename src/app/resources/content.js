@@ -29,7 +29,7 @@ const social = [
     {
         name: 'LinkedIn',
         icon: 'linkedin',
-        link: 'https://www.linkedin.com/in/vergarajohnbryan/',
+        link: 'https://www.linkedin.com/in/john-bryan-vergara-466a3933b/',
     },
     {
         name: 'Youtube',
